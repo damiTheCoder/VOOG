@@ -1,0 +1,133 @@
+.th{
+    
+   
+}
+
+
+.Apa{
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+/* space */
+.xc{
+   
+    background-image: linear-gradient(45deg, black, rgb(63, 6, 63)); 
+}
+/* space */
+.vc{
+    
+    background-image: linear-gradient(45deg, white, white);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-backgroun100pxd-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+/* space */
+.Mt{
+    background-image: url('/IMAGE/Cute\ School\ iPad\ wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+    
+}
+/* space */
+.MZ{
+    background-image: linear-gradient(45deg, black, rgb(8, 35, 46));  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0px;
+}
+/* space */
+
+.MV{
+    background-image: linear-gradient(45deg, black, rgb(38, 5, 43));  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0px;
+}
+
+
+
+
+
+/* space */
+.mama{
+    text-align: left!important;
+    padding: 70px;
+}
+/* space */
+.dg{
+    text-align: left;
+}
+.cx{
+    border-radius: 30px;
+    margin-left: 25px;
+}
+/* sopace */
+.mn{
+    
+    color: white;
+    padding: 20px;
+}
+/* space */
+.Drt{
+    column-gap: 7px;
+
+}
+/* space */
+.vm{
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+/* space */
+.vo{
+    background-image: url('/IMAGE/bc.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+   color: yellow;
+   border-radius: 30px;
+
+}
+/* space */
+.g4{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* space */
+.sg4{
+    border-radius: 20px;
+    padding-bottom: 50px;
+    background-image: url('/IMAGE/vg.jpg');
+    color: rgb(4, 22, 14);
+    
+}
+/* space */
+.bro{
+   \
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+/* contact us page */
+.jo{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
